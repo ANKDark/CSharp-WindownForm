@@ -1,0 +1,7 @@
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\bin\Debug\Thuoctinh(Chacon).exe.config
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\bin\Debug\Thuoctinh(Chacon).exe
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\bin\Debug\Thuoctinh(Chacon).pdb
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\obj\Debug\Thuoctinh(Chacon).csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\obj\Debug\Thuoctinh(Chacon).csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\obj\Debug\Thuoctinh(Chacon).exe
+C:\Learn\Về Nhà\C#\Constractor\Thuoctinh(Chacon)\obj\Debug\Thuoctinh(Chacon).pdb

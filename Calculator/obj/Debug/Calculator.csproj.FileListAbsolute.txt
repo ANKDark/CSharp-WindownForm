@@ -1,0 +1,30 @@
+C:\Learn\Về Nhà\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Learn\Về Nhà\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Learn\Về Nhà\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Learn\Về Nhà\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Learn\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Learn\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Learn\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Learn\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Learn\Về Nhà\C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Learn\Về Nhà\C#\Calculator\bin\Debug\Calculator.exe
+C:\Learn\Về Nhà\C#\Calculator\bin\Debug\Calculator.pdb
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.exe
+C:\Learn\Về Nhà\C#\Calculator\obj\Debug\Calculator.pdb

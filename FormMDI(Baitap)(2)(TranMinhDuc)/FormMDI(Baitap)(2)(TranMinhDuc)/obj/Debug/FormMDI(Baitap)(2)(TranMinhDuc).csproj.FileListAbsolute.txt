@@ -1,0 +1,13 @@
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\bin\Debug\FormMDI(Baitap)(2)(TranMinhDuc).exe.config
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\bin\Debug\FormMDI(Baitap)(2)(TranMinhDuc).exe
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\bin\Debug\FormMDI(Baitap)(2)(TranMinhDuc).pdb
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI(Baitap)(2)(TranMinhDuc).csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI_Baitap__2__TranMinhDuc_.Form1.resources
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI_Baitap__2__TranMinhDuc_.Properties.Resources.resources
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI(Baitap)(2)(TranMinhDuc).csproj.GenerateResource.cache
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI(Baitap)(2)(TranMinhDuc).csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI(Baitap)(2)(TranMinhDuc).exe
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI(Baitap)(2)(TranMinhDuc).pdb
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI_Baitap__2__TranMinhDuc_.Nhanvien.resources
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI_Baitap__2__TranMinhDuc_.Phongban.resources
+C:\Learn\Về Nhà\C#\FormMDI(Baitap)(2)(TranMinhDuc)\FormMDI(Baitap)(2)(TranMinhDuc)\obj\Debug\FormMDI_Baitap__2__TranMinhDuc_.Trangchu.resources

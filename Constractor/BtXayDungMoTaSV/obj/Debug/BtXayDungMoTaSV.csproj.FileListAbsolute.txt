@@ -1,0 +1,7 @@
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\bin\Debug\BtXayDungMoTaSV.exe.config
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\bin\Debug\BtXayDungMoTaSV.exe
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\bin\Debug\BtXayDungMoTaSV.pdb
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\obj\Debug\BtXayDungMoTaSV.csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\obj\Debug\BtXayDungMoTaSV.csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\obj\Debug\BtXayDungMoTaSV.exe
+C:\Learn\Về Nhà\C#\Constractor\BtXayDungMoTaSV\obj\Debug\BtXayDungMoTaSV.pdb

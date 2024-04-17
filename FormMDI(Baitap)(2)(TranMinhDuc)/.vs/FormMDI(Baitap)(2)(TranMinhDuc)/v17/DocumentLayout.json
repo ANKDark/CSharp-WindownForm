@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\formmdi(baitap)(2)(tranminhduc)\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|solutionrelative:formmdi(baitap)(2)(tranminhduc)\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\formmdi(baitap)(2)(tranminhduc)\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|solutionrelative:formmdi(baitap)(2)(tranminhduc)\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|c:\\learn\\v\u1EC1 nh\u00E0\\c#\\formmdi(baitap)(2)(tranminhduc)\\formmdi(baitap)(2)(tranminhduc)\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|solutionrelative:formmdi(baitap)(2)(tranminhduc)\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|c:\\learn\\v\u1EC1 nh\u00E0\\c#\\formmdi(baitap)(2)(tranminhduc)\\formmdi(baitap)(2)(tranminhduc)\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC3621C-909B-4560-9D0E-7BFCEDDE8036}|FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc).csproj|solutionrelative:formmdi(baitap)(2)(tranminhduc)\\nhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nhanvien.Designer.cs",
+              "DocumentMoniker": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.Designer.cs",
+              "RelativeDocumentMoniker": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.Designer.cs",
+              "ToolTip": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.Designer.cs",
+              "RelativeToolTip": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwDUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:36:19.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "ToolTip": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "RelativeToolTip": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:06:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phongban.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Phongban.cs",
+              "RelativeDocumentMoniker": "FormMDI(Baitap)(2)(TranMinhDuc)\\Phongban.cs",
+              "ToolTip": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Phongban.cs [Design]",
+              "RelativeToolTip": "FormMDI(Baitap)(2)(TranMinhDuc)\\Phongban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:01:30.166Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nhanvien.cs [Design]",
+              "DocumentMoniker": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs",
+              "ToolTip": "C:\\Learn\\V\u1EC1 Nh\u00E0\\C#\\FormMDI(Baitap)(2)(TranMinhDuc)\\FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs [Design]",
+              "RelativeToolTip": "FormMDI(Baitap)(2)(TranMinhDuc)\\Nhanvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:37:48.025Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

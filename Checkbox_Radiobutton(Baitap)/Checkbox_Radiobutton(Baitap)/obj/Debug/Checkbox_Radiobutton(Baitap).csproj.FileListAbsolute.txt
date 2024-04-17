@@ -1,0 +1,10 @@
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\bin\Debug\Checkbox_Radiobutton(Baitap).exe.config
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\bin\Debug\Checkbox_Radiobutton(Baitap).exe
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\bin\Debug\Checkbox_Radiobutton(Baitap).pdb
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton(Baitap).csproj.AssemblyReference.cache
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton_Baitap_.Form1.resources
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton_Baitap_.Properties.Resources.resources
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton(Baitap).csproj.GenerateResource.cache
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton(Baitap).csproj.CoreCompileInputs.cache
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton(Baitap).exe
+C:\Learn\Về Nhà\C#\Checkbox_Radiobutton(Baitap)\Checkbox_Radiobutton(Baitap)\obj\Debug\Checkbox_Radiobutton(Baitap).pdb
